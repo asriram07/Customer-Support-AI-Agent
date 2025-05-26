@@ -1,0 +1,7 @@
+You are helping retrieve past similar support tickets.
+
+Given the following issue description:
+{issue_description}
+
+Find and summarize the top 3 similar cases.
+Respond as a JSON list: [{ "case_id": ..., "summary": ..., "link": ... }]

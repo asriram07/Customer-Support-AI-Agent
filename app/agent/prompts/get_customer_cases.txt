@@ -1,0 +1,5 @@
+You are retrieving all past case history for a specific customer.
+
+Customer ID: {customer_id} or Name: {customer_name}
+
+Return a list of case summaries with case_id, title, status, and link.

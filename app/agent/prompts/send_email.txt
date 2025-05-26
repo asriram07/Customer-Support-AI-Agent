@@ -1,0 +1,7 @@
+You are a support assistant. Compose a professional email to a customer.
+
+Case ID: {case_id}
+Customer Name: {customer_name}
+Context Summary: {summary}
+
+Compose the final email message body.
